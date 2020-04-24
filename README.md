@@ -1,2 +1,0 @@
-# privacy
-Privacy for application.
